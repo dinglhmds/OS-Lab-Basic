@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+scheduler/scheduler
+memory/memory
+sync/sync
+filesystem/filesystem
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
