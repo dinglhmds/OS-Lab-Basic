@@ -193,9 +193,3 @@ os_assignment/
 - **并发安全**：pthread 互斥锁 + POSIX 无名信号量
 
 ---
-
-## 提交信息
-
-- **截止时间**：2026年6月11日
-- **代码仓库**：https://github.com/GiantPuk/OS_Course-Design-Expansion
-- **报告需包含**：本仓库 URL 及访问方式说明
